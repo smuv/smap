@@ -1,1 +1,2 @@
 # smap
+Injector for Fortnite
